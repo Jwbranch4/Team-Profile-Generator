@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A Node.js command-line apllication that takes in information about employees and generates an HTML webpage that displays summaries for each person. Also unit tests for each part.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwbranch4/Team-Profile-Generator.git"
+  },
+  "author": "James Branch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jwbranch4/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Jwbranch4/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.3.0"
+  }
+}
