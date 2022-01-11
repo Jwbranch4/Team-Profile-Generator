@@ -8,6 +8,8 @@
 | --------------------------------------------------- | --------------------------------------------------- |
 | https://github.com/Jwbranch4/Team-Profile-Generator | https://jwbranch4.github.io/Team-Profile-Generator/ |
 
+https://watch.screencastify.com/v/AOCipfI4sKZqRJ95mQZW
+
 ## Credits
 
 Project from coding-boot-camp
